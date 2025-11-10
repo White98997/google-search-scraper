@@ -1,0 +1,28 @@
+[
+    {
+        "url": "https://google.com/search?q=sculpture&gl=us&num=20&hl=tr&filter=0&uule=w%2BCAIQICIIaXN0YW5idWw%3D",
+        "name": "sculpture - Google'da Ara",
+        "paidResults": [],
+        "organicResults": [
+            {
+                "title": "Sculpture - Tate",
+                "url": "https://www.tate.org.uk/art/art-terms/s/sculpture",
+                "description": ""
+            }
+        ],
+        "relatedQueries": [
+            {
+                "title": "Sculpture Parfüm",
+                "url": "https://www.google.com/search?num=20&sca_esv=566249636&gl=us&hl=tr&q=Sculpture+Parf%C3%BCm"
+            }
+        ],
+        "searchQuery": {
+            "query": "sculpture",
+            "countryCode": "us",
+            "languageCode": "tr",
+            "resultsPerPage": "20",
+            "domain": "google.com",
+            "locationUule": "w+CAIQICIIaXN0YW5idWw="
+        }
+    }
+]
